@@ -15,7 +15,7 @@ function App() {
         <Card />
       </div>
 
-      <h2>Unsere Profile</h2>
+      <h2>Profile</h2>
 
       <div className="profileContainer">
         <ProfileCard
